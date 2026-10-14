@@ -1,5 +1,9 @@
 # Label-Scarce Ultrasound Biopsy Needle Identification using Dynamics-Guided Prior Modeling
 
+<p align="center">
+  <img src="assets/framework.png" width="90%">
+</p>
+
 Official code for the semi-supervised dynamics-based unrolling framework for ultrasound biopsy needle segmentation
 (*Diagnostics*, MDPI; manuscript ID: diagnostics-4599565).
 
